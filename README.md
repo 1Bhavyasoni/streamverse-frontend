@@ -17,7 +17,7 @@ A full-featured Netflix clone built using **React**, **Redux**, **Tailwind CSS**
 
 ## 📸 Screenshot
 
-![Streamverse Preview](https://github.com/1Bhavyasoni/streamverse-frontend/assets/preview.jpg) <!-- Replace with actual image path or uploaded GitHub image link -->
+<img width="1468" height="874" alt="Image" src="https://github.com/user-attachments/assets/a90c7e82-b852-43cb-b6b9-a1af09ec215a" /> <!-- Replace with actual image path or uploaded GitHub image link -->
 
 ---
 
