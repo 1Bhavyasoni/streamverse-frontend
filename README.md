@@ -39,27 +39,30 @@ git clone https://github.com/1Bhavyasoni/streamverse-frontend.git
 cd streamverse-frontend
 npm install
 npm start
+```
 
+---
 
-⸻
+## ⚙️ Update Backend API Endpoint
 
-⚙️ Update Backend API Endpoint
+**In `/src/utils/constant.js`**, update the API base URL:
 
-In /src/utils/constant.js, update the API base URL:
-
+```js
 export const API_END_POINT = "https://streamverse-backend-nw9k.onrender.com/api/v1/user";
+```
 
+---
 
-⸻
+## 📦 Tech Stack
 
-📦 Tech Stack
-	•	Frontend: React.js, Redux, Tailwind CSS
-	•	Backend: Node.js, Express.js, MongoDB (via Render – see backend repo)
+- **Frontend:** React.js, Redux, Tailwind CSS  
+- **Backend:** Node.js, Express.js, MongoDB (via Render – see backend repo)
 
-⸻
+---
 
-📁 Folder Structure
+## 📁 Folder Structure
 
+```
 src/
 │
 ├── components/
@@ -76,24 +79,23 @@ src/
 │   └── constant.js
 ├── index.js
 └── App.js
+```
 
+---
 
-⸻
-
-🛠️ Environment Setup
+## 🛠️ Environment Setup
 
 No environment variable is required unless using private TMDB keys.
 
 Optional:
 
+```env
 REACT_APP_TMDB_KEY=your_tmdb_key
+```
 
+---
 
-⸻
+## 👤 Developer
 
-👤 Developer
-
-Bhavya Soni
-🔗 LinkedIn
-
-⸻
+**Bhavya Soni**  
+[🔗 LinkedIn](https://www.linkedin.com/in/bhavya-soni-9684b3229/)
